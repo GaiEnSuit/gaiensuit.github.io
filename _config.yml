@@ -16,7 +16,7 @@
 title: K Truong's Blog
 email: truongk77@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about life I guess. Video Games, Programming, Fitness, Business and The Universe. Oh and I giggle a lot.
+  A blog about life I guess. Video Games, Programming, Fitness, Business and The Universe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: truongk77

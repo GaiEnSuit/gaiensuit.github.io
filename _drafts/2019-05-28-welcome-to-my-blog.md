@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "postWithAds"
 title:  "Welcome to My Blog!"
 date:   2019-05-28 20:56:10 -0700
 categories: life
